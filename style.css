@@ -105,4 +105,7 @@ body {
   .main {
     flex-wrap: nowrap;
   }
+  #m {
+    font-size: 2em;
+  }
 }
