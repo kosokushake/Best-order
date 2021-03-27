@@ -12,6 +12,10 @@ body {
   color: black;
 }
 
+header > p {
+  text-align: right;
+}
+
 .line {
   text-align: center;
   margin-right: 10px;
